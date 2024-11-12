@@ -1,6 +1,6 @@
 # About
 
-Welcome to the My_Machine_Learns repository! This repository is dedicated to showcasing various machine learning projects, models, and examples.
+Welcome to the MLPlayground repository! This repository is dedicated to showcasing various machine learning projects, models, and examples.
 
 ## Goals
 
