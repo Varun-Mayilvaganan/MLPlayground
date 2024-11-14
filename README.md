@@ -19,4 +19,4 @@ This repository includes:
 - **Model Implementations**: Implementations of various machine learning models, including neural networks, decision trees, ensemble methods, and more.
 
 
-## ThankYou!
+## Thankyou!
